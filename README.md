@@ -2,10 +2,10 @@
 Este projeto apresenta uma análise estatística baseada em uma pesquisa realizada com 59 indivíduos para entender o comportamento de consumo de tempo em redes sociais.
 
 📑 Dados do Projeto
-✦ Amostra: 59 pessoas entrevistadas.
-✦ Variável: Tempo de permanência (em horas ou intervalos definidos).
-✦ Frequência Total (n): 59.
-✦ Amplitude dos Dados: De 0 a 7 unidades de tempo.
+1. Amostra: 59 pessoas entrevistadas.
+2. Variável: Tempo de permanência (em horas ou intervalos definidos).
+3. Frequência Total (n): 59.
+4. Amplitude dos Dados: De 0 a 7 unidades de tempo.
 
 
 🛠️ O que foi feito para chegar ao resultado
@@ -26,9 +26,8 @@ Para a construção da visualização final, foram seguidas as seguintes etapas 
 
 📈 Resultados Visualizados
 O gráfico final utiliza uma combinação de elementos para facilitar a leitura:
-✦ Quantidade de Pessoas (Barras): Mostra o volume absoluto de usuários por classe.
-
-✦ Tendência de Uso (Linha): Indica o crescimento e decréscimo da permanência, revelando um pico de uso (moda) entre 2 e 3 unidades de tempo.
+1. Quantidade de Pessoas (Barras): Mostra o volume absoluto de usuários por classe.
+2. Tendência de Uso (Linha): Indica o crescimento e decréscimo da permanência, revelando um pico de uso (moda) entre 2 e 3 unidades de tempo.
 
 <img width="477" height="359" alt="grafico" src="https://github.com/user-attachments/assets/9dd4c0ac-7037-4c0f-ba70-510eaedcac64" />
 
